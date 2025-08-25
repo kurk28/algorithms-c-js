@@ -1,5 +1,5 @@
 // quick-find algorithm, p19-ex1.4
-import { argv, stdin as input, stdout as output, exit } from 'node:process';
+import { argv, stdin as input, stdout as output} from 'node:process';
 import { createInterface } from 'node:readline';
 
 let rl;
